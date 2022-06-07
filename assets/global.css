@@ -1,0 +1,18 @@
+body {
+  --main-color: #1baaa0;
+}
+
+ol,
+li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+p {
+  margin: 0;
+}
+
+button {
+  cursor: pointer;
+}
